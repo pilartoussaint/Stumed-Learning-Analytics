@@ -26,3 +26,5 @@ Python (Pandas, Numpy)
 Visualización: Matplotlib, Seaborn
 
 Plataforma Fuente: Moodle LM
+
+Nota de Confidencialidad: Por razones de seguridad y protección de datos personales, los datasets originales han sido omitidos de este repositorio. Las visualizaciones y métricas presentadas utilizan datos anonimizados que no permiten la identificación de usuarios individuales ni revelan información comercial sensible de la institución.
